@@ -11,8 +11,3 @@ Hi! My name is Bryan.<br>Im a second year Computer Science student at Institut T
 ![](https://github-readme-stats.shion.dev/api?username=BryannPPH&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BryannPPH&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BryannPPH&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=BryannPPH&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
